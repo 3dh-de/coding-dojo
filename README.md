@@ -11,12 +11,12 @@ Coding Dojo exmaples for practicing C/C++ programming
 
 ### [ParisDojo](http://codingdojo.org/dojo/ParisDojo/) version
 
-1. 2 minutes: decide on date for next session
-2. 25-30 minutes: quick retrospective of the previous session; what went well, what was interesting, what was frustrating
-3. 10 minutes: decide on a topic for this session (we call these first three items the “next, prev, this” protocol)
-4. 40 minutes or so: code! PreparedKata or RandoriKata , see below
-5. 5-10 minutes: mid-session break to discuss how things are going
-6. 40 minutes: code some more
+* 2 minutes: decide on date for next session
+* 25-30 minutes: quick retrospective of the previous session; what went well, what was interesting, what was frustrating
+* 10 minutes: decide on a topic for this session (we call these first three items the “next, prev, this” protocol)
+* 40 minutes or so: code! PreparedKata or RandoriKata , see below
+* 5-10 minutes: mid-session break to discuss how things are going
+* 40 minutes: code some more
 
 ## Coding tools
 
